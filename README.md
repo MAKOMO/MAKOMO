@@ -7,3 +7,7 @@
 - [Supporting Between Batch Protocols](https://artisan-roasterscope.blogspot.com/2020/12/supporting-between-batch-protocols.html)
 - [Blend Replacements](https://artisan-roasterscope.blogspot.com/2020/12/blend-replacements.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKOMO)](https://github.com/anuraghazra/github-readme-stats)
