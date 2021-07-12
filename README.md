@@ -10,4 +10,4 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKOMO)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="MAKOMO's Github stats" src="https://github-readme-stats.vercel.app/api?username=MAKOMO" hide_border=true"/>
