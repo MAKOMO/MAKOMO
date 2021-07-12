@@ -10,4 +10,4 @@
 
 ---
 
-<img align="left" alt="MAKOMO's Github stats" src="https://github-readme-stats.vercel.app/api?username=MAKOMO" hide_border=true"/>
+<img align="left" alt="MAKOMO's Github stats" src="https://github-readme-stats.vercel.app/api?username=MAKOMO&show_icons=true&hide_border=true" />
