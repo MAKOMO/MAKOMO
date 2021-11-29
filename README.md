@@ -5,7 +5,7 @@
 - [10 degrees above FCs](https://artisan-roasterscope.blogspot.com/2021/09/10-degrees-above-fcs.html)
 - [Artisan v2.4.6](https://artisan-roasterscope.blogspot.com/2021/07/artisan-v246.html)
 - [Tracking Energy Consumption &amp; CO2 Production in Coffee Roasting](https://artisan-roasterscope.blogspot.com/2021/07/tracking-energy-consumption-co2.html)
-- [Artisan v2.4.4](https://artisan-roasterscope.blogspot.com/2020/12/artisan-v244.html)
+- [Organic Reports](https://doc.artisan.plus/updates/organic-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
