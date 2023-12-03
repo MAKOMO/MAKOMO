@@ -1,11 +1,11 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artisan v2.10.0](https://artisan-roasterscope.blogspot.com/2023/11/artisan-v2100.html)
 - [Filtering Roasts](https://doc.artisan.plus/updates/filtering-roasts/)
 - [Artisan v2.8.4](https://artisan-roasterscope.blogspot.com/2023/06/artisan-v284.html)
 - [Buttons – Appearance, State, and Action](https://artisan-roasterscope.blogspot.com/2023/06/buttons-appearance-state-and-action.html)
 - [Understanding Roast Color](https://artisan-roasterscope.blogspot.com/2023/03/understanding-roast-color.html)
-- [Artisan v2.8.2](https://artisan-roasterscope.blogspot.com/2022/12/artisan-v282.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
