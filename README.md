@@ -1,11 +1,11 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artisan v3.1](https://artisan-roasterscope.blogspot.com/2024/11/artisan-v31.html)
 - [Artisan v3.0.0](https://artisan-roasterscope.blogspot.com/2024/08/artisan-v300.html)
 - [Artisan v2.10.2](https://artisan-roasterscope.blogspot.com/2024/02/artisan-v2102.html)
 - [Artisan v2.10.0](https://artisan-roasterscope.blogspot.com/2023/11/artisan-v2100.html)
 - [Filtering Roasts](https://doc.artisan.plus/updates/filtering-roasts/)
-- [Artisan v2.8.4](https://artisan-roasterscope.blogspot.com/2023/06/artisan-v284.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
