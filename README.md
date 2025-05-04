@@ -1,11 +1,11 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artisan v3.1.2](https://artisan-roasterscope.blogspot.com/2025/04/artisan-v312.html)
+- [Using an Energy Meter to Measure Roast Machine Energy Consumption with Artisan](https://artisan-roasterscope.blogspot.com/2025/04/using-energy-meter-to-measure-roast.html)
 - [Artisan v3.1](https://artisan-roasterscope.blogspot.com/2024/11/artisan-v31.html)
 - [Artisan v3.0.0](https://artisan-roasterscope.blogspot.com/2024/08/artisan-v300.html)
 - [Artisan v2.10.2](https://artisan-roasterscope.blogspot.com/2024/02/artisan-v2102.html)
-- [Artisan v2.10.0](https://artisan-roasterscope.blogspot.com/2023/11/artisan-v2100.html)
-- [Filtering Roasts](https://doc.artisan.plus/updates/filtering-roasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
