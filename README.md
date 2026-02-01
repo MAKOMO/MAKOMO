@@ -1,11 +1,11 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artisan 4](https://artisan-roasterscope.blogspot.com/2026/01/artisan-4.html)
 - [Between Batch Protocol Statistics](https://artisan-roasterscope.blogspot.com/2025/11/between-batch-protocol-statistics.html)
 - [Artisan v3.4](https://artisan-roasterscope.blogspot.com/2025/10/artisan-v34.html)
 - [Button Layouts and Hidden Buttons](https://artisan-roasterscope.blogspot.com/2025/10/button-layouts-and-hidden-buttons.html)
 - [Artisan v3.1.2](https://artisan-roasterscope.blogspot.com/2025/04/artisan-v312.html)
-- [Using an Energy Meter to Measure Roast Machine Energy Consumption with Artisan](https://artisan-roasterscope.blogspot.com/2025/04/using-energy-meter-to-measure-roast.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
